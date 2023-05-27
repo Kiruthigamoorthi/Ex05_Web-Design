@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <style type = "text/css">
@@ -67,7 +68,7 @@ p
             E-MAIL ID:kiruthigamoorthi2004@GMAIL.COM</p>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![w-5](https://github.com/Kiruthigamoorthi/Ex05_Web-Design/assets/127816726/52de6863-4249-485c-a237-36c91c5d4841)
 

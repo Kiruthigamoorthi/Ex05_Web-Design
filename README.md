@@ -19,53 +19,51 @@
 ```
 <html>
 <head>
-<style type = "text/css">
+<title>My Personal Info</title>
+<style type="text/css">
+body
+{
+bgcolor:cyan;
+color: red;
+text-align: center;
+}
 h1
-  {
-   background-color:ORANGE;
-    color:yellow;
-    text-align:center;
-  }
-
-
+{
+color:green;
+background-color:yellow;
+}
+hr
+{
+background-color: red;
+height: 5px;
+}
 p
-   {
-    text-align:left;
-    border-bottom-style:dashed;
-    border-top-style:solid; 
-    border-left-style:double; 
-    border-right-style:groove;
-    border-width:25px;
-    font :Times Newroman;
-    border-bottom-color:black;
-    border-top-color:red;
-    border-left-color:green; 
-    border-right-color:cyan;
-   }
+{
+text-align: justify;
+border-style: dashed;
+border-width: 4px;
+border-color: purple;
+}
 </style>
 </head>
 <body>
-            <h1>BIO-DATA</h1>
-<p>    
-            NAME:KIRUTHIGA
-            <br>
-            FATHER NAME:MOORTHI
-            <br>
-            MOTHER NAME: PRITHA
-            <br>
-            ADDRESS:5/27, BATHRAPALLI VILLAGE,K.V.KUPPAM TALUK,VELLORE. 
-            <br>
-            DEPARTMENT:B.TECH AGRICULTURAL ENGINEERING
-            <br>
-            REGISTER NUMBER:212222250014
-            <br>
-            YEAR:FIRST YEAR
-            <br>
-            HOBBIES:PLAYING WITH DOGS,STORY BOOKS READING.
-            <br>
-            PHONE NUMBER:1234567890
-            <br>
-            E-MAIL ID:kiruthigamoorthi2004@GMAIL.COM</p>
+<h1>MY PERSONAL INFORMATION</h1>
+<hr>
+<p>
+Name: kiruthiga M
+<br>
+Reference Number: 212222250014
+<br>
+Department: AGRICULTURE ENGINEERING
+<br>
+Year: I YEAR
+<br>
+Hobbies: READING, LISTENING MUSIC
+<br>
+Mobile Number: 1234567890
+<br>
+E-Mail ID: kiruthigamoorthi2004@GMAIL.COM
+</p>
 </body>
 </html>
 ```

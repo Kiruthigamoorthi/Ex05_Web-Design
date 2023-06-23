@@ -19,7 +19,7 @@
 ```
 <html>
 <head>
-<title>My Personal Info</title>
+<title>bio data</title>
 <style type="text/css">
 body
 {
@@ -47,7 +47,7 @@ border-color: purple;
 </style>
 </head>
 <body>
-<h1>MY PERSONAL INFORMATION</h1>
+<h1>BIO DATA</h1>
 <hr>
 <p>
 Name: kiruthiga M
